@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science graduate with a knack for innovation and skilled in front-end<br>and back-end technologies like JavaScript, TypeScript, React, Node.js, NestJS. I've<br>designed and implemented scalable software solutions and ready to contribute in<br>a dynamic team and learn.
+Computer Science graduate with a knack for innovation and skilled in front-end and back-end technologies like JavaScript, TypeScript, React, Node.js, NestJS. I've designed and implemented scalable software solutions and ready to learn new technologies.
 
 
 ## 🌐 Socials:
